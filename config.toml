@@ -1,0 +1,97 @@
+baseURL = "https://kadotani-ist.github.io/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Sora Kadotani"
+theme = "anatole"
+
+enableEmoji = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+paginate = 3
+summarylength = 10
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+
+  title = "Sora Kadotani"
+  description = "First-year master’s student in Osaka University"
+  author = "Sora Kadotani"
+  copyright = "2021 Sora Kadotani All Rights Reserved"
+  profilePicture = "images/icon.jpg"
+  mainSections = [""]
+  customCss = ["css/custom.css"]
+  doNotLoadAnimations = true
+
+  singleDateFormat = "Jan 02, 2006"
+  indexDateFormat = "Jan 02, 2006"
+  listDateFormat = "Jan 02"
+
+  gtagId = "G-ZLNB31L9E0"
+
+  # Social links
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/kadotani-ist"
+
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:kadotani.sora[at]ist.osaka-u.ac.jp"
+
+[menu]
+
+  [[menu.main]]
+  name = "ABOUT"
+  identifier = "about"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "NEWS"
+  weight = 200
+  identifier = "news"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "CONTACT"
+  weight = 300
+  identifier = "contact"
+  url = "/contact"
+
+[Languages]
+
+  [Languages.en]
+  title = "Sora Kadotani"
+  LanguageName = "English"
+  contentDir = "content/en"
+  weight = 2
+
+  [Languages.ja]
+  title = "Sora Kadotani"
+  LanguageName = "日本語"
+  contentDir = "content/ja"
+  weight = 1
+
+  [[Languages.ja.menu.main]]
+  name = "ABOUT"
+  weight = 100
+  identifier = "about"
+  url = "/ja/"
+
+  [[Languages.ja.menu.main]]
+  name = "NEWS"
+  weight = 200
+  identifier = "news"
+  url = "/ja/post/"
+
+  [[Languages.ja.menu.main]]
+  name = "CONTACT"
+  weight = 300
+  identifier = "contact"
+  url = "/ja/contact/"
