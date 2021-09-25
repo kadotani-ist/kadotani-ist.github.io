@@ -24,7 +24,7 @@ author: "Sora Kadotani"
 * Sora Kadotani, Tomoyuki Kajiwara, Yuki Arase, Makoto Onizuka.
   Edit Distance Based Curriculum Learning for Paraphrase Generation.
   *In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop
-  ([ACL-IJCNLP 2021 SRW](https://sites.google.com/view/acl-ijcnlp-2021-srw/))*, pp.229-234. August 2021.
+  ([ACL-IJCNLP 2021 SRW](https://sites.google.com/view/acl-ijcnlp-2021-srw/))*, pp.229-234. August 2021. (採択率39%)
   **[[PDF]](https://aclanthology.org/2021.acl-srw.24/)**
   **[[Slides]](/pdf/acl2021srw_slides.pdf)**
   **[[Poster]](/pdf/acl2021srw_poster.pdf)**
