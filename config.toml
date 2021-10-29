@@ -30,9 +30,9 @@ pygmentsCodefencesGuessSyntax = true
   singleDateFormat = "Jan 02, 2006"
   indexDateFormat = "Jan 02, 2006"
   listDateFormat = "Jan 02"
-
-  gtagId = "G-ZLNB31L9E0"
-
+  
+  gtagId = "G-3VM37ERVQP"
+  
   # Social links
   [[params.socialIcons]]
     icon = "fab fa-github"
