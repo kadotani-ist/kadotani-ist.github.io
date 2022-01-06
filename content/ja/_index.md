@@ -41,6 +41,7 @@ author: "Sora Kadotani"
 
 ### Experiences
 * Internship: ヤフー株式会社 (2021-09)
+  **[[Slides]](/pdf/yahoo_slides.pdf)**
 
 
 ### Education

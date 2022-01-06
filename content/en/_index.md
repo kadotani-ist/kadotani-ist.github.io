@@ -41,6 +41,7 @@ Graduate School of Information Science and Technology, [Osaka University](https:
 
 ### Experiences
 * Internship: Yahoo Japan Corporation (2021-09)
+  **[[Slides]](/pdf/yahoo_slides.pdf)**
 
 
 ### Education
