@@ -18,7 +18,6 @@ Graduate School of Information Science and Technology, [Osaka University](https:
 * Phrase alignment
 * Paraphrase generation
 * Visual QA
-* Information retrieval
 
 
 ### Publications
@@ -42,9 +41,9 @@ Graduate School of Information Science and Technology, [Osaka University](https:
 
 
 ### Experiences
+* Internship: NTT Human Informatics Laboratories (2022-01 ~ 2022-02)
 * Internship: Yahoo Japan Corporation (2021-09)
   **[[Slides]](/pdf/yahoo_slides.pdf)**
-* Internship: NTT Human Informatics Laboratories (2022-01 ~ 2022-02)
 
 
 ### Education

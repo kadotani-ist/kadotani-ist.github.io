@@ -18,7 +18,6 @@ author: "Sora Kadotani"
 * フレーズアラインメント
 * 言い換え生成
 * 視覚的読解
-* 情報検索
 
 
 ### Publications
@@ -42,9 +41,9 @@ author: "Sora Kadotani"
 
 
 ### Experiences
+* Internship: NTT人間情報研究所 (2022-01 ~ 2022-02)
 * Internship: ヤフー株式会社 (2021-09)
   **[[Slides]](/pdf/yahoo_slides.pdf)**
-* Internship: NTT人間情報研究所 (2022-01 ~ 2022-02)
 
 
 ### Education
