@@ -6,7 +6,7 @@ author: "Sora Kadotani"
 ### About Me
   Sora KADOTANI  ［門谷 宙］
 
-First-year master's student @
+Second-year master's student @
 [Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/) \
 Graduate School of Information Science and Technology, [Osaka University](https://www.osaka-u.ac.jp/en), Japan
 &nbsp; :jp:
@@ -14,9 +14,11 @@ Graduate School of Information Science and Technology, [Osaka University](https:
 
 ### Research Interests
 * Natural language processing
+* Deep learning
 * Phrase alignment
 * Paraphrase generation
-* Machine learning
+* Visual QA
+* Information retrieval
 
 
 ### Publications
@@ -42,6 +44,7 @@ Graduate School of Information Science and Technology, [Osaka University](https:
 ### Experiences
 * Internship: Yahoo Japan Corporation (2021-09)
   **[[Slides]](/pdf/yahoo_slides.pdf)**
+* Internship: NTT Human Informatics Laboratories (2022-01 ~ 2022-02)
 
 
 ### Education

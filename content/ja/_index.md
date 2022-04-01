@@ -9,14 +9,16 @@ author: "Sora Kadotani"
 大阪大学大学院情報科学研究科 マルチメディア工学専攻 \
 ビッグデータ工学講座
 ([鬼塚研究室](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)) \
-修士課程 1年
+修士課程 2年
 
 
 ### Research Interests
 * 自然言語処理
+* 深層学習
 * フレーズアラインメント
 * 言い換え生成
-* 機械学習
+* 視覚的読解
+* 情報検索
 
 
 ### Publications
@@ -42,6 +44,7 @@ author: "Sora Kadotani"
 ### Experiences
 * Internship: ヤフー株式会社 (2021-09)
   **[[Slides]](/pdf/yahoo_slides.pdf)**
+* Internship: NTT人間情報研究所 (2022-01 ~ 2022-02)
 
 
 ### Education
